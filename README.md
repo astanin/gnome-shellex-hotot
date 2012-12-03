@@ -17,7 +17,7 @@ This extension puts Hotot status icon in the top bar of the Gnome Shell.
 2. Install this extension:
 
          cd ~/.local/share/gnome-shell/extensions
-         git clone https://astanin@github.com/astanin/hotot.shellex.git
+         git clone https://astanin@github.com/astanin/hotot.shellex.git shellex.hotot@astanin.github.com
 
 3. Restart Gnome Shell (`Alt`-`F2`, `r`, `Enter`).  Enable the extension
    in Advanced Settings (also known as `gnome-tweak-tool`).
