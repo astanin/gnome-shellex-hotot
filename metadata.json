@@ -1,5 +1,5 @@
 { "shell-version": ["3.2", "3.4"]
-, "uuid": "shellex.hotot@astanin.github.com"
+, "uuid": "hotot.shellex"
 , "name": "Hotot status icon"
 , "description": "Display status icon of hotot-gtk3 in the top bar."
 }
